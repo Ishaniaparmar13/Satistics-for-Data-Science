@@ -17,4 +17,4 @@ Finally, categorical variables such as Gender and Department are converted into
 numerical form using One-Hot Encoding.
 
 3. Complete Python Code 
-Here is the complete python code with outputs in code file.
+Here is the complete python code with outputs in  Statistical_Practical_numpy_pandas_ipynb code file.
